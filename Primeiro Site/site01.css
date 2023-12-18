@@ -9,7 +9,7 @@ body{
     flex-direction: column;
 }
 .nav{
-    background-color: rgb(218, 178, 178);
+    background-color: rgb(253, 231, 231);
     border: 1px solid black;
 }
 .nav-lista{
@@ -23,10 +23,11 @@ body{
 }  
 div{
     text-align: center;
+    
 }
 button{
-    color: rgb(192, 48, 48);
+    color: rgb(14, 10, 10);
     text-align: center;
-    border: 1px color(srgb red green blue);
+    border: 1px color(srgb rgb(7, 5, 5) green blue);
 
 }
